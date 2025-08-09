@@ -1,0 +1,2 @@
+# FraudDetection
+Intelligent Surveillance Matrix for Proactive FraudDetection via BehavioralAnalysis and IdentityVerification Framework implementing modern TransactionMonitoring patterns
